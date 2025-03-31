@@ -8,11 +8,35 @@
 		<title>Dog API</title>
 	</head>
 	<body>
-		<h1>All Dogs go to Heaven</h1>
-		<button>Give Bone</button>
-		<img src="">
-		<p></p>
+		<header>
+			<h1>Find Your Best Friend</h1>
 
+				<label for="zipcode">Zicode</label>
+				<input id="zipcode" type="text" value="">
+
+				<label for="range">Range</label>
+				<input id="range" type="number" value="">
+				
+				<label for="sex">Male</label>
+				<select id="sex">
+					<option value=""></option>
+					<option value="m">Male</option>
+					<option value="f">Female</option>
+				</select>
+				
+				<label for="age">Age</label>
+				<select id="age">
+					<option value="puppy">Puppy</option>
+					<option value="young">Young</option>
+					<option value="adult">Adult</option>
+					<option value="senior">Senior</option>
+				</select>
+
+			<button>Find Dogs</button>
+		</header>
+		<section class="mainSection">
+			<ul></ul>
+		</section>
 		<script src="js/main.js"></script>
 	</body>
 </html> 
