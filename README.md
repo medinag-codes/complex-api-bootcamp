@@ -1,22 +1,17 @@
-# 📊 Project: Complex API 
+# My Complex API Project
+This is a website I made to get a random dog image and a random fact about dogs
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+**Link to project:** []
 
-### How to submit your code for review:
+![Complex NASA API](/images/Complex%20API.png)
+![Complex NASA API - Return](/images/Complex%20API%20-%20Result.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript, API
+
+This is a website I made using the Dog CEO API and the Dog API 
+
+## Lessons Learned:
+
+I learned how to fetch data using nested APIs. I also learned a lot about CORS restrictions after many trials and errors with other various APIs
