@@ -3,8 +3,8 @@ This is a website I made to get a random dog image and a random fact about dogs
 
 **Link to project:** []
 
-![Complex NASA API](/images/Complex%20API.png)
-![Complex NASA API - Return](/images/Complex%20API%20-%20Result.png)
+![Complex API](/images/Complex%20API.png)
+![Complex API - Return](/images/Complex%20API%20-%20Result.png)
 
 ## How It's Made:
 
