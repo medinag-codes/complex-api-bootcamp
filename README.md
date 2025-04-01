@@ -10,7 +10,7 @@ This is a website I made to get a random dog image and a random fact about dogs
 
 **Tech used:** HTML, CSS, JavaScript, API
 
-This is a website I made using the Dog CEO API and the Dog API 
+This is a website I made using the Adopts-a-Pet API and the API Ninjas API
 
 ## Lessons Learned:
 
